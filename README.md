@@ -1,7 +1,5 @@
 # Mohs Hardness Ensemble Prediction
 
-![Project Image](url_to_project_image)
-
 > A collaborative project utilizing ensemble models for predicting Mohs hardness. 🚀💎
 
 ---
